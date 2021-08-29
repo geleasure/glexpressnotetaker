@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Licence Badge](https://img.shields.io/badge/licence-MIT-green)",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -18,5 +18,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geleasure/glexpressnotetaker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/geleasure/glexpressnotetaker/issues"
+  },
+  "homepage": "https://github.com/geleasure/glexpressnotetaker#readme"
 }
